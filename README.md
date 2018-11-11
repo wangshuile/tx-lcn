@@ -1,4 +1,5 @@
 # LCN分布式事务框架v4.0 
+参考博客:https://blog.csdn.net/zyndev/article/details/79604395
 
   "LCN并不生产事务，LCN只是本地事务的协调者"
 
